@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -108,7 +108,280 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: zombie nerd better_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 428
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da87f2881e388a5428d3adff6cb69aee
+      internalID: 681738820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie nerd better_1
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 264
+        width: 156
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68b1c47cf995384dbc17b4bdbc124f9
+      internalID: 606813227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie nerd better_2
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 288
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ead00c5355c7647b1df07af43915a4
+      internalID: -1465779331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie nerd better_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 300
+        width: 53
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacee89821d814d47b4ebe6929804659
+      internalID: 1322462746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie nerd better_4
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 147
+        width: 100
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731274fb358baea449755dda2c9fb4e4
+      internalID: 828945278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie nerd better_5
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 63
+        width: 126
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f79f5d300710a4a85e85678d9e3c6d
+      internalID: -1987672799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie nerd better_6
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 228
+        width: 109
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053b1408e0403d44d85f9ed2f15cdcfe
+      internalID: 549160976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie nerd better_7
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 252
+        width: 87
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c1ef56c4161d045bc44160ea071d20
+      internalID: -1104518206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie nerd better_8
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 66
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0ed4905fabff548b01b037ae3e689a
+      internalID: -616641538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie nerd better_9
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 14
+        width: 98
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beddf584bedec204fa8d94de0ba48cd5
+      internalID: 2079600495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie nerd better_10
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 48
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c35755677221834bae50a8f07be94a8
+      internalID: -1452593812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie nerd better_11
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 46
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799534609732a82439b2bcfdd6e0a850
+      internalID: 1190084744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie nerd better_12
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 8
+        width: 105
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42ec92eb4ff1ca438286d42b3201577
+      internalID: -1064196588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones:
@@ -6158,7 +6431,20 @@ TextureImporter:
       boneIndex[2]: 0
       boneIndex[3]: 0
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      zombie nerd better_0: 681738820
+      zombie nerd better_1: 606813227
+      zombie nerd better_10: -1452593812
+      zombie nerd better_11: 1190084744
+      zombie nerd better_12: -1064196588
+      zombie nerd better_2: -1465779331
+      zombie nerd better_3: 1322462746
+      zombie nerd better_4: 828945278
+      zombie nerd better_5: -1987672799
+      zombie nerd better_6: 549160976
+      zombie nerd better_7: -1104518206
+      zombie nerd better_8: -616641538
+      zombie nerd better_9: 2079600495
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

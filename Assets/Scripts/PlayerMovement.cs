@@ -5,8 +5,8 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     [SerializeField] private float speed;
-
     private Rigidbody2D body;
+    private bool grounded;
 
     private void Awake()
     {
@@ -15,9 +15,29 @@ public class PlayerMovement : MonoBehaviour
 
     private void Update()
     {
-        body.velocity = new Vector2(Input.GetAxis("Horizontal"), body.velocity.y);
-        {
-            
-        };
+
+        float horizontalInput = Input.GetAxis("Horizontal");
+
+        body.velocity = new Vector2(Input.GetAxis("Horizontal") * speed, body.velocity.y);
+
+        if (horizontalInput > 0.01f)
+            transform.localScale = new Vector3(0.3f, 0.3f, 0.3f);
+        else if (horizontalInput < -0.01f)
+            transform.localScale = new Vector3(-0.3f, 0.3f, 0.3f);
+
+        if (Input.GetKey(KeyCode.Space) && grounded)
+            Jump();
+    }
+
+    private void Jump()
+    {
+        body.velocity = new Vector2(body.velocity.x, speed);
+        grounded = false;
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if(collision.gameObject.tag == "Ground")
+            grounded = true;
     }
 }
